@@ -1,0 +1,8 @@
+README.md
+setup.py
+Performance.egg-info/PKG-INFO
+Performance.egg-info/SOURCES.txt
+Performance.egg-info/dependency_links.txt
+Performance.egg-info/requires.txt
+Performance.egg-info/top_level.txt
+src/__init__.py

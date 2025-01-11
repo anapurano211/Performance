@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Performance
+Version: 0.0.1
+Author: Andrew
+Author-email: AN47692N@PACE.EDU
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
